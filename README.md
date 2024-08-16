@@ -1,2 +1,6 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![developer](https://img.shields.io/badge/junior_developer-grey?style=for-the-badge)  
-![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)![Rust intern](https://img.shields.io/badge/Intern-grey?style=for-the-badge)
+```
+pub struct About {
+    web_developer: Junior,
+    game_developer: Noob,
+}
+```
