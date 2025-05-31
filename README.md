@@ -5,23 +5,22 @@ export interface About {
     css: {
       vanilla: true;
       tailwind: true; // Utility-first enthusiast
+      preprocessors: {
+        sass: true; // Syntactically awesome style sheets user
+      };
     };
     js: {
       vanilla: true;
       superset: {
-        ts: "basic"; // TypeScript apprentice
+        ts: 'basic'; // TypeScript apprentice
       };
       frameworks: {
-        vue: "basic"; // Progressive framework explorer
-      };
-      libraries: {
-        react: "basic"; // Component-curious
+        astro: 'basic'; // Content-driven website creator
       };
       tools: {
-        vite: "basic"; // Blazing-fast dev experience enjoyer
+        vite: 'basic'; // Blazing-fast dev experience enjoyer
       };
     };
   };
 }
-
 ```
