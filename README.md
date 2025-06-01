@@ -5,9 +5,6 @@ export interface About {
     css: {
       vanilla: true;
       tailwind: true; // Utility-first enthusiast
-      preprocessors: {
-        sass: true; // Syntactically awesome style sheets user
-      };
     };
     js: {
       vanilla: true;
