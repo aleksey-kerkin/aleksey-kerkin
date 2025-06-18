@@ -1,3 +1,7 @@
+# 👋 Привет! Я Алексей, Junior Frontend Developer  
+- 🔨 **Стек:** HTML5, CSS3, JavaScript, Vue.js (...in progress...)  
+- 🌐 **Портфолио:** [...in development...]  
+- 📫 **Контакты:** [email](aleksey.kerkin@yandex.ru) / [telegram](https://t.me/aleksey_kerkin)
 ```TS
 export interface About {
   webDev: {
@@ -17,9 +21,6 @@ export interface About {
       frameworks: {
         astro: 'basic'; // Content-driven website creator
         vue: 'basic'; // Progressive framework explorer
-      };
-      libraries: {
-        react: 'basic'; // Component-curious learner
       };
       tools: {
         vite: 'basic'; // Blazing-fast dev experience enjoyer
