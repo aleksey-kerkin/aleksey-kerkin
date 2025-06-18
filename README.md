@@ -1,31 +1,33 @@
-# 👋 Привет! Я Алексей, Junior Frontend Developer  
-- 🔨 **Стек:** HTML5, CSS3, JavaScript, Vue.js (...in progress...)  
-- 🌐 **Портфолио:** [...in development...]  
-- 📫 **Контакты:** [email](aleksey.kerkin@yandex.ru) / [telegram](https://t.me/aleksey_kerkin)
-```TS
-export interface About {
+
+# 👋 Hello! I am Aleksey, Junior Frontend Developer  
+- 🔨 **Tech Stack:** HTML5, CSS3, SCSS, BEM, JavaScript, Vue.js (...in progress...)
+- 🌐 **Portfolio:** [...in development...]  
+- 📫 **Contacts:** [email](aleksey.kerkin@yandex.ru) / [telegram](https://t.me/aleksey_kerkin)
+
+```JS
+export default const aboutMe = {
   webDev: {
-    html: true;
+    html: true,
     css: {
-      vanilla: true;
-      tailwind: true; // Utility-first enthusiast
+      vanilla: true,
+      tailwind: true, // Utility-first enthusiast
       preprocessors: {
-        sass: true; // Syntactically awesome style sheets user
-      };
-    };
+        scss: true, // Syntactically awesome style sheets user
+      },
+    },
     js: {
-      vanilla: true;
+      vanilla: true,
       superset: {
-        ts: 'basic'; // TypeScript apprentice
-      };
+        ts: 'basic', // TypeScript apprentice
+      },
       frameworks: {
-        astro: 'basic'; // Content-driven website creator
-        vue: 'basic'; // Progressive framework explorer
-      };
+        vue: 'basic', // Progressive framework explorer
+        astro: 'basic', // Content-driven website creator
+      },
       tools: {
-        vite: 'basic'; // Blazing-fast dev experience enjoyer
-      };
-    };
-  };
-}
+        vite: 'basic', // Blazing-fast dev experience enjoyer
+      },
+    },
+  },
+};
 ```
