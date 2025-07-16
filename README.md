@@ -35,4 +35,4 @@ export default const aboutMe = {
 };
 ```
 
-### 📫 **Contacts:** [email](aleksey.kerkin@yandex.ru) / [telegram](https://t.me/aleksey_kerkin)
+### 📫 **Contacts:** [email](mailto:aleksey.kerkin@yandex.ru) / [telegram](https://t.me/aleksey_kerkin)
