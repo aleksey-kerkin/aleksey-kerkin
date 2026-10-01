@@ -9,35 +9,12 @@
 [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![BEM](https://img.shields.io/badge/BEM-313244?style=for-the-badge&logo=bem&logoColor=white)](https://css-tricks.com/bem-block-element-modifier/)
 
-```JS
-export default const aboutMe = {
-  webDev: {
-    html: true,
-    css: {
-      vanilla: true,
-      tailwind: true, // Utility-first enthusiast
-      preprocessors: {
-        scss: true, // Syntactically awesome style sheets user
-      },
-    },
-    js: {
-      vanilla: true,
-      superset: {
-        ts: 'basic', // TypeScript apprentice
-      },
-      frameworks: {
-        astro: 'basic', // Content-driven website creator
-        vue: 'basic', // Progressive framework explorer
-      },
-      libraries: {
-        react: 'basic'; // Component-curious learner
-      },
-      tools: {
-        vite: 'basic', // Blazing-fast dev experience enjoyer
-      },
-    },
-  },
-};
-```
+What I do well:
+- Build responsive, pixel-perfect UIs with React / Vue / Astro.
+- Design data layers: typed REST SDKs, Zustand, TanStack Query, caching, pagination.
+- Maintain shared UI libraries and consistent interfaces.
+- Optimize performance: SSG / SSR, code splitting, Core Web Vitals.
+
+I work spec-driven and practice TDD with Vitest. I contribute to code reviews, refactoring, and API contract alignment with backend. I use AI tools to ship faster without sacrificing code quality.
 
 ### 📫 **Contacts:** [email](mailto:aleksey.kerkin@yandex.ru) / [telegram](https://t.me/aleksey_kerkin)
