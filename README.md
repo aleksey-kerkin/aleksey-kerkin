@@ -15,6 +15,6 @@ What I do well:
 - Maintain shared UI libraries and consistent interfaces.
 - Optimize performance: SSG / SSR, code splitting, Core Web Vitals.
 
-I work spec-driven and practice TDD with Vitest. I contribute to code reviews, refactoring, and API contract alignment with backend. I use AI tools to ship faster without sacrificing code quality.
+I follow SDD and practice TDD with Vitest. I contribute to code reviews, refactoring, and API contract alignment with backend. I use AI tools to ship faster without sacrificing code quality.
 
 ### 📫 **Contacts:** [email](mailto:aleksey.kerkin@yandex.ru) / [telegram](https://t.me/aleksey_kerkin)
